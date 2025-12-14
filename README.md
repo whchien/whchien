@@ -1,10 +1,10 @@
 <h1> 🙋🏻‍♂️ Hello world! This is Will.
 </h1>
 <p>
-    I am an AI Engineer with over 4 years of experience across the financial and energy industries. My secret recipe is discovering the umami where the right question meets the right technology.
+    I am an AI Engineer / Data Scientist with 5 years of experience across the financial and energy industries. My secret recipe is discovering the umami where the right question meets the right technology.
 </p>
 <p>
-I’m from Taiwan: the land of boba 🧋 and semiconductors 💾, currently based in the Netherlands.
+I’m from Taiwan: the land of boba 🧋, currently based in the Netherlands.
 </p>
 
 <h3>Core AI & MLOps Expertise</h3>
@@ -12,11 +12,15 @@ I’m from Taiwan: the land of boba 🧋 and semiconductors 💾, currently base
 <p>
     <img alt="LLM" src="https://img.shields.io/badge/-LLM%20%26%20GenAI-5B84B1?style=flat-square&logo=openai&logoColor=white" />
     <img alt="RAG" src="https://img.shields.io/badge/-RAG%20System-8E44AD?style=flat-square&logo=llama-index&logoColor=white" />
-    <img alt="Transformer" src="https://img.shields.io/badge/-Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white" />
     <img alt="Agentic AI" src="https://img.shields.io/badge/-Agentic%20AI-00C9A7?style=flat-square&logo=langchain&logoColor=white" />
+    <img alt="Transformer" src="https://img.shields.io/badge/-Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white" />
     <img alt="MLOps" src="https://img.shields.io/badge/-MLOps-46A2F1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="PySpark" src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
     <img alt="MLflow" src="https://img.shields.io/badge/-MLflow-009688?style=flat-square&logo=mlflow&logoColor=white" />
+    <img alt="Classical ML" src="https://img.shields.io/badge/-Classical%20ML-6A5ACD?style=flat-square&logo=scikit-learn&logoColor=white" />
+    <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-FF4C4C?style=flat-square&logo=pytorch&logoColor=white" />
+    <img alt="Time Series" src="https://img.shields.io/badge/-Time%20Series-2C3E50?style=flat-square&logo=databricks&logoColor=white" />
+    <img alt="Feature Engineering" src="https://img.shields.io/badge/-Feature%20Engineering-795548?style=flat-square" />
 </p>
 
 <h3>Open Source Projects</h3>
@@ -52,7 +56,7 @@ I’m from Taiwan: the land of boba 🧋 and semiconductors 💾, currently base
 <h3>GitHub Stats</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=whchien&theme=radical&show_icons=true&title_color=00ADB5&icon_color=00ADB5&text_color=333&bg_color=FFFFFF" alt="Will's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=whchien&theme=radical&show_icons=true" alt="Will's GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=whchien&theme=radical" alt="Will's Streak" />
 </p>
 
