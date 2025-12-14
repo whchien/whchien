@@ -7,8 +7,6 @@
 I’m from Taiwan: the land of boba 🧋 and semiconductors 💾, currently based in the Netherlands.
 </p>
 
----
-
 <h3>Core AI & MLOps Expertise</h3>
 
 <p>
@@ -20,8 +18,6 @@ I’m from Taiwan: the land of boba 🧋 and semiconductors 💾, currently base
     <img alt="PySpark" src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
     <img alt="MLflow" src="https://img.shields.io/badge/-MLflow-009688?style=flat-square&logo=mlflow&logoColor=white" />
 </p>
-
----
 
 <h3>Open Source Projects</h3>
 
@@ -52,8 +48,6 @@ I’m from Taiwan: the land of boba 🧋 and semiconductors 💾, currently base
         </tr>
     </tbody>
 </table>
-
----
 
 <h3>GitHub Stats</h3>
 
