@@ -1,14 +1,10 @@
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/49622915/233010459-715a3c03-7557-4148-a0d0-08738360d85a.png" width="900" alt="AI & Data Science Banner" />
-</div>
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello world! This is Will.</h1>
-
+<h1> 🙋🏻‍♂️ Hello world! This is Will.
+</h1>
 <p>
-    I am an AI Engineer with 4+ years of experience across the financial and energy industries. My secret recipe is to identify the right question to answer with the right technology. 
+    I am an AI Engineer with over 4 years of experience across the financial and energy industries. My secret recipe is discovering the umami where the right question meets the right technology.
 </p>
 <p>
-    I am proudly from <b>Taiwan</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197669.png" width="13"/> and currently based in the <b>Netherlands</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>. 
+I’m from Taiwan: the land of boba 🧋 and semiconductors 💾, currently based in the Netherlands.
 </p>
 
 ---
@@ -21,7 +17,6 @@
     <img alt="Transformer" src="https://img.shields.io/badge/-Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white" />
     <img alt="Agentic AI" src="https://img.shields.io/badge/-Agentic%20AI-00C9A7?style=flat-square&logo=langchain&logoColor=white" />
     <img alt="MLOps" src="https://img.shields.io/badge/-MLOps-46A2F1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="Databricks" src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
     <img alt="PySpark" src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
     <img alt="MLflow" src="https://img.shields.io/badge/-MLflow-009688?style=flat-square&logo=mlflow&logoColor=white" />
 </p>
@@ -30,9 +25,6 @@
 
 <h3>Open Source Projects</h3>
 
-<p>
-    Creating tools for algorithmic finance and data aggregation.
-</p>
 
 <table>
     <thead align="center">
@@ -70,10 +62,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=whchien&theme=radical" alt="Will's Streak" />
 </p>
 
-<h3><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="25" alt="Handshake"/> Where to Connect</h3>
+<h3> Where to Connect</h3>
 <p>
-    <a href="https://linkedin.com/in/your_linkedin_username" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-    <a href="https://twitter.com/your_twitter_username" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+    <a href="https://linkedin.com/in/willchien115" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
     <a href="https://github.com/whchien" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
