@@ -32,17 +32,17 @@ I’m from Taiwan: the land of boba 🧋 and semiconductors 💾, currently base
     </thead>
     <tbody>
         <tr>
-            <td><a href="[github link]"><b>AI Trader</b></a></td>
+            <td><a href="https://github.com/whchien/ai-trader"><b>AI Trader</b></a></td>
             <td>Algorithmic trading project with 20+ stock strategies built on Backtrader.</td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/whchien/AI-Trader?style=flat-square&labelColor=343b41"/></td>
         </tr>
         <tr>
-            <td><a href="[github link]"><b>Funda Scraper</b></a></td>
-            <td>The most popular web scraping package for the Dutch housing market.</td>
+            <td><a href="https://github.com/whchien/funda-scraper"><b>Funda Scraper</b></a></td>
+            <td>The #1 downloaded web scraping package for the Dutch housing market.</td>
             <td><img alt="Downloads" src="https://img.shields.io/pypi/dm/funda-scraper?style=flat-square&labelColor=343b41" /><img alt="Stars" src="https://img.shields.io/github/stars/whchien/funda-scraper?style=flat-square&labelColor=343b41"/> </td>
         </tr>
         <tr>
-            <td><a href="[github link]"><b>Financial Data Engine</b></a></td>
+            <td><a href="https://github.com/whchien/financial-data-engine"><b>Financial Data Engine</b></a></td>
             <td>Distributed financial data scraper using Docker with comprehensive monitoring.</td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/whchien/Financial-Data-Engine?style=flat-square&labelColor=343b41"/></td>
         </tr>
