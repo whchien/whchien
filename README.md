@@ -37,7 +37,7 @@ I’m from Taiwan: the land of boba 🧋, currently based in the Netherlands.
     <tbody>
         <tr>
             <td><a href="https://github.com/whchien/ai-trader"><b>AI Trader</b></a></td>
-            <td>Algorithmic trading project with 20+ stock strategies built on Backtrader.</td>
+            <td>Backtrader-powered backtesting framework for algorithmic trading. 20+ strategies, multi-market support, and CLI tools for professional traders.</td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/whchien/AI-Trader?style=flat-square&labelColor=343b41"/></td>
         </tr>
         <tr>
